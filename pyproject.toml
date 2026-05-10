@@ -1,6 +1,6 @@
 [project]
 name = "com-rinlit-countdowndays"
-version = "1.0.0"
+version = "1.0.1"
 description = "Class Widgets 2 倒计日插件 / Countdown Days Plugin"
 authors = [
     {name = "RinLit"},
